@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hi, I am 2nd-year PhD student studying mathematics with <a href="https://faculty.math.illinois.edu/~psdey/index.html">Partha S. Dey</a>.
+  Hi, I am 2nd-year PhD student in UIUC. I am interested in probability theory related to mathematical physics, especially in first-passage percolation and Liouville quantum gravity. My advisor is <a href="https://faculty.math.illinois.edu/~psdey/index.html">Partha S. Dey</a>.
 </p>
 
 <p>
