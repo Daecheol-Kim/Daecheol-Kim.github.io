@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Graduate Probability Seminar
+title: Blog
 slug: /blog
 ---
 
